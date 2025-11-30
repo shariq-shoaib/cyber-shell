@@ -11,9 +11,9 @@ A custom Unix shell built in C with advanced features.
 
 
 ## Contributors
-Abdul Basit Malik - Core Shell Development
-Safwan Ahmad Baseer - Piping & Redirection
-M. Shariq Shoaib - Testing & Documentation
+- Abdul Basit Malik - Core Shell Development
+- Safwan Ahmad Baseer - Piping & Redirection
+- M. Shariq Shoaib - Testing & Documentation
 
 ## License
 MIT License - see LICENSE file for details.
@@ -28,3 +28,4 @@ make
 
 # Test
 make test
+
