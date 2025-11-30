@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🚀 Cyber-Shell
 
 A custom Unix shell built in C with advanced features.
@@ -29,4 +28,3 @@ M. Shariq Shoaib - Testing & Documentation
 
 License
 MIT License - see LICENSE file for details.
-EOF
